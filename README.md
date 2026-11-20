@@ -27,9 +27,8 @@ git switch -c 0001/two-sum
 
 ### 2. Develop solution
 
-Modify `Main.cpp` with the solution to the given problem.
+Modify `main.cpp` with the solution to the given problem from solution branch.
 ```
-git switch 0001/two-sum
 git add main.cpp
 git commit -m "Solution to task 0001/two-sum"
 ```
